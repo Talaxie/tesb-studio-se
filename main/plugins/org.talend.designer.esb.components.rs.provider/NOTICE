@@ -9,4 +9,3 @@ This product includes/uses softwares under their own licenses as described below
 Lists of 2 third-party dependencies.
      (GPL) (MIT License) (The Apache License, Version 2.0) delight-rhino-sandbox (org.javadelight:delight-rhino-sandbox:0.0.15 - https://github.com/javadelight/delight-rhino-sandbox)
      (Mozilla Public License, Version 2.0) rhino (org.mozilla:rhino:1.7.14 - https://mozilla.github.io/rhino/)
-
