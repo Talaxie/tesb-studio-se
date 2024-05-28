@@ -1,15 +1,15 @@
-# Talend Open Studio for ESB
+# Talaxie Open Studio for ESB
 
 
-[![Visit Talend's website](https://www.talend.com/wp-content/uploads/2016/07/talend-logo.png "Talend")](http://www.talend.com/)
+[![Visit Deilink's website](https://www.deilink.fr/image/talaxie_logo.jpg "Talaxie")](http://www.deilink.fr/)
 
 
-This repository contains the source files for Talend Open Studio for ESB.
+This repository contains the source files for Talaxie Open Studio for ESB.
 
 
 ## Repository Structure
 
-All Talend Studio repositories follow the same file structure:
+All Talaxie Studio repositories follow the same file structure:
 
 ```
 
@@ -26,7 +26,7 @@ All Talend Studio repositories follow the same file structure:
 
 ## How to build projects
 
-Follow the instructions at [Talend/studio-se-master](https://github.com/Talend/studio-se-master) and run the following from inside the `studio-se-master` repository.
+Follow the instructions at [Talaxie/studio-se-master](https://github.com/Talaxie/studio-se-master) and run the following from inside the `studio-se-master` repository.
 
 ```
 mvn clean install \
@@ -39,12 +39,12 @@ mvn clean install \
 
 ## Download
 
-You can download this product from the [Talend website](http://www.talend.com/download/talend-open-studio?qt-product_tos_download_new=3&utm_medium=communityext&utm_source=github&utm_campaign=tosesb).
+You can download this product from the [Talaxie website](http://www.talend.com/download/talend-open-studio?qt-product_tos_download_new=3&utm_medium=communityext&utm_source=github&utm_campaign=tosesb).
 
 
 ## Usage and Documentation
 
-Documentation is available on [Talend Help Center](http://help.talend.com/).
+Documentation is available on [Talaxie Help Center](http://help.talend.com/).
 
 
 ## Support
@@ -56,12 +56,12 @@ You can ask for help on our [Forum](http://www.talend.com/services/technical-sup
 
 We welcome contributions of all kinds from anyone.
 
-Using the [Talend bugtracker](http://jira.talendforge.org/) is the best channel for bug reports and feature requests. Use GitHub to submit pull requests.
+Using the [Talaxie bugtracker](http://jira.talendforge.org/) is the best channel for bug reports and feature requests. Use GitHub to submit pull requests.
 
 Feel free to share your Talend components on [Talend Exchange](http://www.talendforge.org/exchange).
 
 ## License
 
-Copyright (c) 2006-2021 Talend
+Copyright (c) 2023-2024 Talaxie
 
 Licensed under the Apache V2 License
