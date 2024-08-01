@@ -1,6 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: %pluginName 8.0.1-2023-08
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-SymbolicName: org.talend.designer.esb.components.rs.provider;singleton:=true
 Bundle-Version: 8.8.8.qualifier
 Bundle-Vendor: %providerName
