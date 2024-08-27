@@ -1,5 +1,7 @@
 .settings
 target
 bin
+main/plugins/org.talend.designer.esb.components.rs.provider/lib/
+main/plugins/org.talend.resources.export.route/lib/
 main/plugins/org.talend.camel.designer.codegen/codegen.jar
 components.cache
